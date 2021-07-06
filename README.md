@@ -4,12 +4,12 @@
 
 npm install
 
-cd react-app
+cd react
 npm install
 
 ## Usage
 
 npm start
 
-cd react-app
+cd react
 npm install
